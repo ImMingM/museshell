@@ -1,2 +1,2 @@
 # museshell
-智能shell运维工具
+AI智能shell运维工具
